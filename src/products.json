@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "title": "Zapatilla A",
+      "description": "zapatilla Adidas",
+      "price": 299,
+      "thumbnail": "https://files.fm/u/5rxepd7fds",
+      "code": "ADF121",
+      "stock": 10
+    },
+    {
+      "id": 3,
+      "title": "Producto 2",
+      "description": "zapatilla Adidas",
+      "price": 899,
+      "thumbnail": "https://files.fm/u/75nbvydqem",
+      "code": "ADF122",
+      "stock": 10
+    },
+    {
+        "id": 3,
+        "title": "Producto 3",
+        "description": "zapatillas Nike",
+        "price": 899,
+        "thumbnail": "https://files.fm/u/8rudpxwng7",
+        "code": "ADF123",
+        "stock": 10
+      },
+      {
+        "id": 4,
+        "title": "Producto 4",
+        "description": "zapatillas Nike",
+        "price": 899,
+        "thumbnail": "https://files.fm/u/69akfdezap",
+        "code": "ADF124",
+        "stock": 10
+      },
+      {
+        "id": 5,
+        "title": "Producto 5",
+        "description": "zapatillas Puma",
+        "price": 899,
+        "thumbnail": "https://files.fm/u/p3322nkr53",
+        "code": "ADF125",
+        "stock": 10
+      }
+  ]
